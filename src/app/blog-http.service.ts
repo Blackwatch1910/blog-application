@@ -17,7 +17,7 @@ export class BlogHttpService {
 
   public baseURL = 'https://blogapp.edwisor.com/api/v1/blogs';
   // tslint:disable-next-line: max-line-length
-  public ApiKey = 'MDE3NGY2ODkwYzRlMDI4MDYwNjgyZWIyZGVhYmUwM2QzM2QzNDAwYzE3MDUyODBiOTQ1MjhlNTUxODJkZDBiNDRkOWI0ZWZjYzdmNTQxNjQ3NzA0NWZhNmU1N2QzYzI0MjUzOWQ0YzU4MTgxY2E5MzhmMjE3NzlhMzdmOGI4ZTJjNg==';
+  public ApiKey = 'Admin';
 
   constructor(private http: HttpClient) {
     console.log('http-service called');
