@@ -1,0 +1,10 @@
+.header {
+    background-color: #04192E;
+    font-size: 56px;
+    display: block;
+    padding: 3%;
+}
+
+a {
+    text-decoration: wavy;
+}
